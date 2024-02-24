@@ -7,22 +7,22 @@
 
 <div align="center" dir="auto">
   <a href="https://github.com/rudfir#">
-    <img src="./rudfir (Dzarel Developer )_files/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d616465253230496e2d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d4d616465253230496e266c6f676f436f6c6f723d" alt="Made In" data-canonical-src="https://img.shields.io/badge/Made%20In-FF0000?style=for-the-badge&amp;logo=Made%20In&amp;logoColor=white" style="max-width: 100%;">
+    <img src="./rudfir (Rudi" alt="Made In" data-canonical-src="https://img.shields.io/badge/Made%20In-FF0000?style=for-the-badge&amp;logo=Made%20In&amp;logoColor=white" style="max-width: 100%;">
   </a>
   <a href="https://github.com/rudfir#">
-    <img src="./rudfir (Dzarel Developer )_files/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e646f6e657369612d4646464646463f7374796c653d666f722d7468652d6261646765266c6f676f3d496e646f6e65736961266c6f676f436f6c6f723d" alt="Indonesia" data-canonical-src="https://img.shields.io/badge/Indonesia-FFFFFF?style=for-the-badge&amp;logo=Indonesia&amp;logoColor=white" style="max-width: 100%;">
+    <img src="./rudfir (Rudi" alt="Indonesia" data-canonical-src="https://img.shields.io/badge/Indonesia-FFFFFF?style=for-the-badge&amp;logo=Indonesia&amp;logoColor=white" style="max-width: 100%;">
   </a>
 <div align="center" dir="auto">
   <a href="https://github.com/rudfir#">
-    <img src="./rudfir (Dzarel Developer )_files/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64656425323042792d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d436f6465642532304279266c6f676f436f6c6f" alt="Code By" data-canonical-src="https://img.shields.io/badge/Coded%20By-FF0000?style=for-the-badge&amp;logo=Coded%20By&amp;logoColor=white" style="max-width: 100%;">
+    <img src="./rudfir (Rudi" alt="Code By" data-canonical-src="https://img.shields.io/badge/Coded%20By-FF0000?style=for-the-badge&amp;logo=Coded%20By&amp;logoColor=white" style="max-width: 100%;">
   </a>
   <a href="https://github.com/rudfir#">
-    <img src="./rudfir (Dzarel Developer )_files/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f447a6172656c446576656c6f7065722d4646464646463f7374796c653d666f722d7468652d6261646765266c6f676f3d447a6172656c446576656c6f7065" alt="Dzarel Developer" data-canonical-src="https://img.shields.io/badge/DzarelDeveloper-FFFFFF?style=for-the-badge&amp;logo=DzarelDeveloper&amp;logoColor=white" style="max-width: 100%;">
+    <img src="./rudfir (Rudi" alt="M. Rudi Firmansyah" data-canonical-src="https://img.shields.io/badge/DzarelDeveloper-FFFFFF?style=for-the-badge&amp;logo=DzarelDeveloper&amp;logoColor=white" style="max-width: 100%;">
   </a>
 </div>
 <div align="center" dir="auto">
   <a href="https://github.com/rudfir#">
-    <img src="./rudfir (Dzarel Developer )_files/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64655370686572656430313031302d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d436f6465737068657265643031" alt="Codesphered01010" data-canonical-src="https://img.shields.io/badge/CodeSphered01010-FF0000?style=for-the-badge&amp;logo=Codesphered01010&amp;logoColor=white" style="max-width: 100%;">
+    <img src="./rudfir (Rudi" alt="Rudfir Production" data-canonical-src="https://img.shields.io/badge/CodeSphered01010-FF0000?style=for-the-badge&amp;logo=Codesphered01010&amp;logoColor=white" style="max-width: 100%;">
 </a>
 </div>
 <div id="user-content-header" align="center" dir="auto">
@@ -39,8 +39,8 @@
   <a href="https://wa.me/+62895325746462" rel="nofollow">
   <img src="./rudfir (Dzarel Developer )_files/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768" alt="whatsapp" data-canonical-src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;">
 </a>
-<a href="https://t.me/RF" rel="nofollow">
-  <img src="./rudfir (Dzarel Developer )_files/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768" alt="telegram" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;">
+<a href="https://bio.site/rudfir" rel="nofollow">
+  <img src="./rudfir (Dzarel Developer )_files/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768" alt="Website" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;">
 </a>
 <div align="center" dir="auto">
   <h2 dir="auto"><a id="user-content-stats" class="anchor" aria-hidden="true" tabindex="-1" href="https://github.com/DzarelDeveloper#stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Stats</h2>
