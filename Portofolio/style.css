@@ -1,0 +1,403 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav {
+  background-color: #ffffff;
+  height: 13vh;
+  background-size: cover;
+  background-position: center;
+}
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* clearfix */
+
+/**
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    contenteditable attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that are clearfixed.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+.cf:before,
+.cf:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+
+.cf:after {
+  clear: both;
+}
+
+/**
+  * For IE 6/7 only
+  * Include this rule to trigger hasLayout and contain floats.
+  */
+
+/* style */
+
+/* * {
+  box-sizing: border-box;
+} */
+body {
+  background-color: white;
+}
+
+/* hero */
+
+.hero {
+  background-color: #ffffff;
+  height: 100vh;
+  background-image: url(/img/hero.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+
+.hero li {
+  text-align: right;
+  margin: 20px;
+  padding: 15px;
+  float: left;
+  font-size: 16px;
+}
+
+.hero li a {
+  text-decoration: none;
+  color: #873a3a;
+}
+
+nav ul li:first-child {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  width: fit-content;
+}
+
+/* logo */
+
+.hero nav ul li img {
+  width: 20%;
+  margin: 0;
+  margin-left: 40px;
+  padding: 0;
+  float: left;
+}
+
+/* end logo */
+
+/* greet */
+
+.greet {
+  box-sizing: border-box;
+  width: 45%;
+  /* border: 1px solid #000; */
+  margin-top: 90px;
+  margin-left: 600px;
+}
+
+.greet h2 {
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 70px;
+}
+
+.greet p {
+  font-size: 18px;
+  line-height: 20px;
+}
+
+/* end greet */
+
+/* about me */
+
+.about-me {
+  height: 100vh;
+  background-color: #873a3a;
+  color: white;
+}
+
+.about-me .desc {
+  margin-top: 160px;
+  width: 45%;
+  /* border: 1px solid #000; */
+  float: left;
+  margin-left: 100px;
+  box-sizing: border-box;
+  padding: 20px;
+  /* background-color: #272829; */
+  /* border-radius: 40px; */
+}
+
+.about-me .desc h3 {
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 60px;
+}
+
+.about-me .desc p {
+  font-size: 18px;
+  line-height: 20px;
+}
+
+.about-me .pict {
+  margin-top: 150px;
+  margin-left: 150px;
+  float: left;
+  width: 300px;
+}
+
+.about-me .pict img {
+  width: 100%;
+  border-radius: 50%;
+}
+
+/* end about me */
+
+/* portofolios */
+
+.portofolios {
+  height: 100vh;
+}
+
+.portofolios h2 {
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+  margin: 50px;
+}
+
+.portofolios .portofolio {
+  box-sizing: border-box;
+  width: 25%;
+  height: 350px;
+  float: left;
+  margin-left: 80px;
+  background-color: #d8d9da;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.portofolios .portofolio h3 {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 40px;
+}
+
+.portofolios .portofolio p {
+  text-align: justify;
+}
+
+.portofolios .portofolio p a {
+  text-decoration: none;
+  color: #000;
+  text-decoration: underline;
+}
+
+.portofolios .portofolio img {
+  width: 100%;
+  border-radius: 10px;
+}
+/* end portofolios */
+
+/* blogs */
+
+.blogs {
+  height: 100vh;
+  background-color: #873a3a;
+}
+
+.blogs h2 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+  margin: 70px;
+  color: white;
+}
+
+.blogs .blog {
+  box-sizing: border-box;
+  width: 20%;
+  height: 300px;
+  float: left;
+  margin-left: 50px;
+  background-color: #d8d9da;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.blogs img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+/* end blog */
+
+/* contact */
+.contact {
+  height: 100vh;
+}
+
+.contact h2 {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  margin: 50px;
+  margin-bottom: 0;
+}
+
+.contact p {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
+.contact form {
+  width: 60%;
+  background-color: #d8d9da;
+  padding: 60px;
+  margin-left: 200px;
+  border-radius: 20px;
+}
+
+.contact form label {
+  font-size: 20px;
+  font-weight: bold;
+  display: block;
+}
+
+.contact form ul li {
+  margin-bottom: 20px;
+}
+/* end contact */
+
+/* footer */
+
+.footer {
+  color: white;
+  background-color: #873a3a;
+  padding: 40px;
+  text-align: center;
+}
+
+/* end footer */
